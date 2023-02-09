@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+}
+
+section {
+    width: 65%;
+    border-radius: 1rem;
+    background-color: white;
+    margin: 15rem 15rem;
+    padding: 2rem;
+    background-color: #b8b8b8;
+}
+h2{
+    text-align: center;
+    color:blue ;
+    
+}
+.main{
+    display: flex;
+    padding: 2rem;
+    
+    
+}
+.data-fields{
+    width: auto;
+    padding: 1.5rem;
+}
+label{
+    color: blue;
+    margin: 0 1rem;
+}
+.button_p{
+    margin: 0rem 20rem;
+}
+.text{
+    border: solid blue;
+    padding: 1rem;
+}
+.button{
+    width: 90px;
+    border: none;
+    height: 35px;
+    cursor: pointer;
+    padding: 0rem;
+    background-color: blue;
+    color: white;
+}
